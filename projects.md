@@ -37,6 +37,8 @@ library which was provided for a Stochastic Processes course, but then became a
 project on its own. It was developed together with
 [Mandragorian][mandragorian], go check him out.
 
+The initial version of the library was developed by [tetraktida][tetraktida].
+
 ---
 
 
@@ -95,4 +97,5 @@ If you'd like to get the code, you [know][email-me] what to do.
 [simple-markov-lib]: https://github.com/VHarisop/simple-markov
 [simpletar]: https://github.com/VHarisop/Simpletar
 [simplex-method]: https://en.wikipedia.org/wiki/Simplex_algorithm
+[tetraktida]: https://github.com/tetraktida
 [tony-spec]: http://courses.softlab.ntua.gr/compilers/2015a/tony2015.pdf
