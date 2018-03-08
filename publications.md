@@ -18,11 +18,11 @@ permalink: /publications/
    van der Gaast W. (2017)
    *Managing stakeholder knowledge for the evaluation of innovation systems in
    the face of climate change*.
-   In: Journal of Knowledge Management (to appear).
+   In: Journal of Knowledge Management, Volume 21 (5), 2017.
 
 ### Works in progress
 
-* *A tropical approach to neural networks*, with Petros Maragos.
+* *A Tropical Approach to Neural Networks with Piecewise Linear Activations*, with Petros Maragos.
 
 *  *N-Gram Graphs for subsequence and similarity search*, with George
    Giannakopoulos.

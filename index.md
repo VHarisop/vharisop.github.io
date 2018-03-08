@@ -7,7 +7,7 @@ layout: home
 <link rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-My GPG Key: [<i class='fa fa-key fa-spin'></i>][gpg-pub]
+My GPG Key: [<i class='fa fa-key'></i>][gpg-pub]
 
 
 [gpg-pub]: {{ site.url }}/assets/gpg-key.pub
