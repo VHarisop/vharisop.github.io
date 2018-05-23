@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### Preprints
+1. Charisopoulos V., Maragos P. (2018)
+   *A Tropical Approach to Neural Networks with Piecewise Linear Activations*.
+   [arXiv:1805.08749][arxiv-tropical]
+
+
 ### Conferences
 
 1. Charisopoulos V., Maragos P. (2017)
@@ -22,7 +28,8 @@ permalink: /publications/
 
 ### Works in progress
 
-* *A Tropical Approach to Neural Networks with Piecewise Linear Activations*, with Petros Maragos.
-
 *  *N-Gram Graphs for subsequence and similarity search*, with George
    Giannakopoulos.
+
+
+[arxiv-tropical]: https://arxiv.org/abs/1805.08749
